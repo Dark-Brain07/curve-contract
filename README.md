@@ -85,3 +85,4 @@ There is also an active [bug bounty](https://docs.curve.finance/security/securit
 ## License
 
 (c) Curve.Fi, 2020 - [All rights reserved](LICENSE).
+"### Contributor note\nImproved documentation for better clarity." 
